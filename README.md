@@ -1,6 +1,6 @@
-# flutter_web_exp1
+# Flutter Algorithms Visualizer
 
-A new Flutter project.
+This project intends to offer a visual representation of well-know algorithms. The app will compile to Android, iOS and Web.
 
 ## Getting Started
 
