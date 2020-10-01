@@ -1,4 +1,4 @@
-name: Flutter Algorithms Visualizer
+name: flutter_web_exp1
 description: This project intends to offer a visual representation of well-know algorithms. The app will compile to Android, iOS and Web.
 
 # The following line prevents the package from being accidentally published to
